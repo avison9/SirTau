@@ -4,10 +4,10 @@ SirTau Designs
 
 AUTHOR:
 Originally Designed & Developed by GetTemplates.co
-Edited and redesigned by Cyxern
+Edited and redesigned by Avison David
 
 Website: http://gettemplates.co/
-Website: http://cyxern.com
+Website: http://netcivecorp.com
 
 CREDITS:
 
